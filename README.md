@@ -2,7 +2,7 @@
 	A very little bot 🤖
 </h1>
 
-> **Warning**: If Messi coded with his feet, probably would he make great code. But I am not Messi and I coded this with my feet.  
+> **Warning**: I am not Messi but still, I can code with my feet  
 
 ## What is it ?
 This Python program automates internships requests on Tesla website by automatically filling in the forms.  
